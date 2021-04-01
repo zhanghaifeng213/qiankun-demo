@@ -21,7 +21,7 @@ npm run serve
 ```
 
 ### 运行子应用 ```qiankun-react```
-Vue子应用配置的主应用访问端口号为20000
+react子应用配置的主应用访问端口号为20000
 
 ```
 cd qiankun-react
