@@ -28,6 +28,8 @@ cd qiankun-react
 npm install
 npm run start
 ```
+## 搭建过程
+[搭建过程](https://blog.csdn.net/qq_42006353/article/details/115375583)
 ## 效果展示
 <p>
 <img
