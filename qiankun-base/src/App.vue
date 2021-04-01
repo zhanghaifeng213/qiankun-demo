@@ -12,18 +12,8 @@
     <div id="react"></div>
   </div>
 </template>
-
-<style>
-
-
-</style>
 <script>
-
-
 export default {
   name: "Main",
-  mounted() {
-    
-  },
 };
 </script>
